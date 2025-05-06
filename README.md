@@ -1,2 +1,1 @@
 # Semester 3-2
-ALL SUBJECTS MATERIALS
