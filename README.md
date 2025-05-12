@@ -1,2 +1,2 @@
 # Semester 3-2
-All updates 
+All updates of academics
