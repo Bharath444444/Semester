@@ -1,3 +1,2 @@
-# Semester 3-2
-ALL SUBJECTS MATERIALS & RESOURCES ALSO PYQ
+# Semester updates
 
