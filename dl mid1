@@ -6,5 +6,4 @@
 6. Compare and contrast Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) in terms of their architecture and typical use cases?
 7. What are hyper-parameters in the context of deep learning? Provide at least three examples and explain how they influence the training        process.
 8. Explain the basic architecture of an autoencoder. What are the roles of the encoder and decoder?
-9. Describe the building blocks of a deep learning model. How do these components work together to enable learning from data?
-    set 1 2 3 for only mid1
+9. Describe the building blocks of a deep learning model. How do these components work together to enable learning from data
