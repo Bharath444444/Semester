@@ -1,2 +1,2 @@
 # Semester updates Final year
-subjects cv,dl,rpa,dm
+subjects cv,dl,rpa,dm,es
