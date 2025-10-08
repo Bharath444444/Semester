@@ -1,4 +1,3 @@
 1. Explain the fundamental differences between a biological neuron and an artificial neuron, such as a Perceptron?
 2. Describe the role of activation functions in a neural network. Why are non-linear activation functions essential for deep learning models?
 3. Discuss the practical applications of Probabilistic PCA and Factor Analysis.
-4. What is the purpose of a loss function in training a neural network? Provide an example of a common loss function and the type of problem it is used for.
