@@ -1,3 +1,18 @@
-1. Explain the fundamental differences between a biological neuron and an artificial neuron, such as a Perceptron?
-2. Describe the role of activation functions in a neural network. Why are non-linear activation functions essential for deep learning models?
-3. Discuss the practical applications of Probabilistic PCA and Factor Analysis.
+SET-1
+1. what is a BoltZmann machine? Explain its energy function and significance
+
+2. Diff b/w Directed Generative models and Energy -Based models.
+
+3. Explain the architecture of transformer models used in modem NLP.
+SET-2
+1. Explain the concept of reparameterization trick used in stochastic back propagation
+
+2. Explain the structure of DBM and their multi layer energy function
+
+3. Briefly explain steps to create and train a neatral netwone, using the DL4j library
+SET-3
+1. Descsibe the advantages and limtations of static generative models.
+
+2. Explain the directed generative networks? How do they differ from undirected models like RBM's
+
+3. Disscus the role of activation function and dropout in improving CNN performance
