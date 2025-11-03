@@ -1,18 +1,12 @@
 SET-1
 1. what is a BoltZmann machine? Explain its energy function and significance
-
 2. Diff b/w Directed Generative models and Energy -Based models.
-
 3. Explain the architecture of transformer models used in modem NLP.
 SET-2
 1. Explain the concept of reparameterization trick used in stochastic back propagation
-
 2. Explain the structure of DBM and their multi layer energy function
-
 3. Briefly explain steps to create and train a neatral netwone, using the DL4j library
 SET-3
 1. Descsibe the advantages and limtations of static generative models.
-
 2. Explain the directed generative networks? How do they differ from undirected models like RBM's
-
 3. Disscus the role of activation function and dropout in improving CNN performance
